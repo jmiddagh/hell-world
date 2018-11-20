@@ -1,2 +1,2 @@
-# hell-world
+# hello-world
 Initial github repository
